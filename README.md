@@ -2,7 +2,7 @@
 
 First-year Artificial Intelligence student at **Vrije Universiteit Amsterdam**, looking for a part-time role (16–24 h/week) in a tech or AI team.
 
-**Portfolio:** [portfolio-r1-add9.vercel.app](https://portfolio-r1-add9.vercel.app) · **LinkedIn:** [karim-hoceine](https://linkedin.com/in/karim-hoceine-62ab76440)
+**Portfolio:** [portfolio-navy-nine-2twekudjjz.vercel.app](https://portfolio-navy-nine-2twekudjjz.vercel.app) · **LinkedIn:** [karim-hoceine](https://linkedin.com/in/karim-hoceine-62ab76440)
 
 I build retrieval systems, AI agents and automations, and I measure whether they work: baselines first, fixed seeds, and honest results, including what didn't work.
 
@@ -15,7 +15,7 @@ I build retrieval systems, AI agents and automations, and I measure whether they
 | **[leadflow](https://github.com/karimhoceine2-netizen/leadflow)** | Lead intake and CRM with a durable outbox, retries and idempotent processing | Tested local pipeline with a mock-webhook demo |
 | **[dossier-compleet](https://github.com/karimhoceine2-netizen/dossier-compleet)** | Document collection with decision rules, human review and reminders | Working local workflow on mock data |
 
-**More:** a live AI chatbot on [magnifize.nl](https://magnifize.nl), client web apps (private) and client websites for [Mizaan](https://mizaanjeugdgezin.nl), [SABA](https://sabaexposure.nl/) and [IVSO](https://ivso-instituut.nl/). Everything is on my **[portfolio site](https://portfolio-r1-add9.vercel.app)**, including my CV in English and Dutch.
+**More:** a live AI chatbot on [magnifize.nl](https://magnifize.nl), client web apps (private) and client websites for [Mizaan](https://mizaanjeugdgezin.nl), [SABA](https://sabaexposure.nl/) and [IVSO](https://ivso-instituut.nl/). Everything is on my **[portfolio site](https://portfolio-navy-nine-2twekudjjz.vercel.app)**, including my CV in English and Dutch.
 
 **Working with:** Python · FastAPI · scikit-learn · sentence-transformers · TypeScript · React / Next.js · PostgreSQL · Docker · Google Cloud Run · GitHub Actions
 
